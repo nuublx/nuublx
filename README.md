@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @nuublx
-- 👀 I’m interested in Data science and software engineering
-- 🌱 I’m currently learning COmputer science -> Information System
-- 📫 How to reach me : Zeyaddiaa21@gmail.com / +201069408519
-
-<!---
-nuublx/nuublx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m Zeyad Diaa aka @nuublx
+👀 I’m interested in programming, software Engineering, Data Science
+🌱 I’m currently a college student in Faculty of computers and artificial intelligence (FCAI) Cairo University
+💞️ I’m looking for an internship in Data science or software engineering fields
+My Email :Zeyaddiaa21@gmail.com
+phone Number: +201069408
