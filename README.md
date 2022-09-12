@@ -3,4 +3,4 @@
 🌱 I’m currently a college student in Faculty of computers and artificial intelligence (FCAI) Cairo University
 💞️ I’m looking for an internship in Data science or software engineering fields
 My Email :Zeyaddiaa21@gmail.com
-phone Number: +201069408
+phone Number: +201069408519
