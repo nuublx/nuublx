@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I'm currently in my junior year in Faculty of Computers And AI, Cairo Uni.<br>👯I'm looking to collaborate on full stack projects.<br>🤝I'm looking for help with finding an internship.<br>🌱 I'm currently learning web development mainly backend and creating projects.<br>💬 Ask me about web development.<br>⚡ Fun fact: I find solutions to code bugs in my sleep.<br>My Email :Zeyaddiaa21@gmail.com<br>phone Number: +201069408519
+🔭I'm currently in my junior year in Faculty of Computers And AI, Cairo Uni.<br>👯I'm looking to collaborate on full stack projects.<br>🤝I'm looking for help with finding an internship.<br>🌱 I'm currently learning web development mainly backend and creating projects.<br>💬 Ask me about web development.<br>⚡ Fun fact: I find solutions to code bugs in my sleep.<br>My Email :Zeyaddiaa21@gmail.com<br>WhatsApp: +201069408519
  
 
 
